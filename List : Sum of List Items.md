@@ -10,10 +10,6 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-Developed by:Mohanaprabha S
-Register no:212224040197
-```
-```
  L=[153,147,124,102] 
 print(sum(L)))
 ```
